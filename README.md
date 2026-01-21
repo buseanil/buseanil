@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @buseanil
 - 👀 I’m interested in Web and Mobile Devolopment.
-- 🌱 I’m currently learning Java.
+  
 
 <!---
 buseanil/buseanil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
